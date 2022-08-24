@@ -2,7 +2,7 @@ defmodule Qrusty.MixProject do
   use Mix.Project
 
   @version "0.1.4"
-  @source_url "https://github.com/nbw/qrusty"
+  @source_url "https://github.com/gidskql6671/qrusty"
 
   def project do
     [
